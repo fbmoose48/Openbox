@@ -1,7 +1,7 @@
 ##Arch
 #sudo pacman -S openbox obconf tint2 nitrogen arandr -yy
 #Optional
-#sudo pacman -S obmenu pamac-tray xarchiver pcmanfm -yy
+#sudo pacman -S obmenu plank pamac-tray xarchiver pcmanfm -yy
 #yay -S obmenu-generator lxappearance lxappearance-obconf
 
 #Create Config Driectory
