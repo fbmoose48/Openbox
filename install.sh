@@ -7,7 +7,7 @@
 #Create Config Driectory
 #mkdir ~/.config/openbox
 #Creat autostart
-#nano ~/.config/openbo/autostart
+#nano ~/.config/openbox/autostart
 
 #Copy default configs
 #cp /etc/xdg/openbox/* ~/.config/openbox/
