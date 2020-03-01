@@ -1,7 +1,7 @@
 #Arch
-#sudo pacman -S openbox obconf tint2 nitrogen -y
+#sudo pacman -S openbox obconf tint2 nitrogen arandr -y
 #Optional
-#sudo pacman -S xarchiver lxappearance pcmanfm
+#sudo pacman -S obmenu xarchiver lxappearance pcmanfm
 
 #Ubuntu
 #sudo apt install openbox obconf tint2 nitrogen -y
